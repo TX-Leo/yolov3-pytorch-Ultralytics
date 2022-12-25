@@ -1,0 +1,9 @@
+
+#the path of train and val image set
+train: PascalVOC2022/JPEGImages/train
+val: PascalVOC2022/JPEGImages/val
+# number of classes
+nc: 1
+# class names
+names: ['RBC']
+
